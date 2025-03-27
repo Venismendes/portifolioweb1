@@ -1,3 +1,7 @@
+.navbar {
+  background-color: #aaa;
+}
+
 a {
   text-decoration: none;
   font-weight: bold;
@@ -7,17 +11,6 @@ a {
   display: flex;
   padding: 3rem 5rem;
   gap: 2rem;
-}
-
-.body .learnmore {
-  padding: 0.8rem 2rem;
-  background-color: #BC6C25;
-  border: none;
-  border-radius: 5px;
-}
-
-.body .learnmore:hover {
-  background-color: #DDA15E;
 }
 
 .body a {
@@ -58,7 +51,7 @@ a {
 }
 
 .footer {
-  background-color: #888;
+  background-color: #1b4353;
   color: white;
   text-align: center;
   padding: 1rem;
