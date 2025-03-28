@@ -11,6 +11,7 @@ a {
   display: flex;
   padding: 3rem 5rem;
   gap: 2rem;
+  text-align: justify;
 }
 
 .body a {
@@ -22,10 +23,15 @@ a {
 }
 
 
+.body4 {
+  padding: 5rem 5rem;
+}
+
 .body2, .body3 {
   display: flex;
   padding: 0rem 5rem;
   gap: 2rem;
+  text-align: justify;
 }
 
 .titulo2 {
